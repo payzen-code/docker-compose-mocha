@@ -1,5 +1,5 @@
 {
-  "name": "@corevos/docker-compose-tool",
+  "name": "@corevo/docker-compose-tool",
   "version": "1.4.3",
   "description": "Tool used for setting up an isolated environment for end to end testing / integration testing using Docker Compose",
   "main": "index.js",
@@ -12,8 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/corevo/docker-compose-tool.git",
-    "private": true
+    "url": "git+https://github.com/corevo/docker-compose-tool.git"
   },
   "author": "Itamar Arjuan",
   "license": "MIT",
