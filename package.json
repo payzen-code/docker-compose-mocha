@@ -1,5 +1,5 @@
 {
-  "name": "@applitools/docker-compose-mocha",
+  "name": "@corevo/docker-compose-tool",
   "version": "1.4.3",
   "description": "Tool used for setting up an isolated environment for end to end testing / integration testing using Docker Compose",
   "main": "index.js",
@@ -12,11 +12,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/applitools/docker-compose-tool.git",
+    "url": "git+https://github.com/corevo/docker-compose-tool.git",
     "private": true
   },
   "author": "Itamar Arjuan",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "dependencies": {
     "chalk": "^3.0.0",
     "chance": "^1.1.4",
@@ -26,7 +26,6 @@
     "node-fetch": "^2.6.0"
   },
   "devDependencies": {
-    "@applitools/build-commons": "^1.1.13",
     "chai": "^4.2.0",
     "eslint": "^6.8.0",
     "eslint-config-airbnb-base": "^14.0.0",
