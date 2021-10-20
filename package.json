@@ -1,5 +1,5 @@
 {
-  "name": "@corevo/docker-compose-tool",
+  "name": "@payzen/docker-compose-tool",
   "version": "1.4.3",
   "description": "Tool used for setting up an isolated environment for end to end testing / integration testing using Docker Compose",
   "main": "index.js",
